@@ -1,0 +1,30 @@
+{
+  "jmenazeny": [
+    "Eliška","Viktorie","Sofie","Anna","Natálie","Amálie","Ema","Tereza","Laura",
+    "Adéla","Julie","Rozálie","Nela","Mia","Emma","Karolína","Barbora","Sára",
+    "Stella","Anežka","Veronika","Kristýna","Marie","Lucie","Valerie"
+  ],
+  "jmenamuzi": [
+    "Matyáš","Jakub","Vojtěch","Jan","Matěj","Filip","David","Tomáš","Daniel",
+    "Dominik","Tobiáš","Oliver","Štěpán","Antonín","Sebastian","Lukáš","Martin",
+    "Ondřej","Mikuláš","Adam","Jonáš","Samuel","Tadeáš","Šimon​","Eliáš"
+  ],
+  "prijmenizeny": [
+    "Nováková","Novotná","Dvořáková","Svobodová","Kučerová","Procházková","Černá",
+    "Veselá","Horáková","Němcová","Marková","Benešová","Králová","Marešová",
+    "Růžičková","Kadlecová","Sedláková","Pokorná","Urbanová","Doležalová",
+    "Jelínková","Havlová","Zemanová","Horáčková","Kratochvílová","Málková",
+    "Fialová","Pavlová","Konečná","Krejčová","Šimková","Holubová","Čechová",
+    "Petrová","Bartošová","Křížová","Vlčková","Machová","Vlachová","Richterová",
+    "Štěpánková","Kovářová","Tomanová","Hrušková","Součková","Nečasová",
+    "Sýkorová","Matoušková","Blažková","Andrlová"
+  ],
+  "prijmenimuzi": [
+    "Novák","Novotný","Dvořák","Svoboda","Kučera","Procházka","Černý","Veselý",
+    "Horák","Němec","Marek","Beneš","Král","Mareš","Růžička","Kadlec","Sedlák",
+    "Pokorný","Urban","Doležal","Jelínek","Havel","Zeman","Horáček","Kratochvíl",
+    "Málek","Fiala","Pavel","Konečný","Krejčí","Šimek","Holub","Čech","Petr",
+    "Bartoš","Kříž","Vlček","Mach","Vlach","Richter","Štěpánek","Kovář","Toman",
+    "Hruška","Souček","Nečas","Sýkora","Matoušek","Blažek","Andrle"
+  ]
+}
